@@ -1,6 +1,7 @@
 {
   "version": 2,
   "projects": {
-    "bff": "apps/bff"
+    "bff": "apps/bff",
+    "fe": "apps/fe"
   }
 }
